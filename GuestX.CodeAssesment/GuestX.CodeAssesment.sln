@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29319.158
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuestX.ClassImplementation", "GuestX.ClassImplementation\GuestX.ClassImplementation.csproj", "{7F9DABC4-B7AB-4936-B7CE-510525F5CAC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuestX.VowelCounter", "GuestX.VowelCounter\GuestX.VowelCounter.csproj", "{07A1F514-7C6C-4FE4-A0EC-3A308BBEB5A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuestX.VowelCounter", "GuestX.VowelCounter\GuestX.VowelCounter.csproj", "{07A1F514-7C6C-4FE4-A0EC-3A308BBEB5A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuestX.VowelCounterJs", "GuestX.VowelCounterJs\GuestX.VowelCounterJs.csproj", "{B9C89E15-27DF-4EB1-A51A-BA0EDBF681E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{07A1F514-7C6C-4FE4-A0EC-3A308BBEB5A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07A1F514-7C6C-4FE4-A0EC-3A308BBEB5A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07A1F514-7C6C-4FE4-A0EC-3A308BBEB5A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C89E15-27DF-4EB1-A51A-BA0EDBF681E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C89E15-27DF-4EB1-A51A-BA0EDBF681E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C89E15-27DF-4EB1-A51A-BA0EDBF681E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C89E15-27DF-4EB1-A51A-BA0EDBF681E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
