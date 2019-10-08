@@ -9,6 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuestX.VowelCounter", "Gues
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuestX.VowelCounterJs", "GuestX.VowelCounterJs\GuestX.VowelCounterJs.csproj", "{B9C89E15-27DF-4EB1-A51A-BA0EDBF681E4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataModeling", "DataModeling", "{B48C0290-C671-404F-987C-D462C6B95F48}"
+	ProjectSection(SolutionItems) = preProject
+		GuestX.DataModeling\Diagram.png = GuestX.DataModeling\Diagram.png
+		GuestX.DataModeling\SqlScript.sql = GuestX.DataModeling\SqlScript.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
